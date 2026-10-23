@@ -1,2 +1,2 @@
-streamlit>=1.40
+streamlit>=1.52
 google-genai
